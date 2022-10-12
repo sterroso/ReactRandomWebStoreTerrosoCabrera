@@ -12,15 +12,15 @@ const ArticleQuantitySpinner = (props) => {
      }
 
   return (
-    <div className="form-control w-full">
+    <div className="form-control">
         <label className="label">
             <span className="label-text text-xs">Cantidad:</span>
         </label>
 
         <label className="input-group">
-            <span className={`font-bold text-xl ${minQuantity === maxQuantity ? 'disabled' : ''}`} onClick={() => handleButtonClick(-1)}>-</span>
+            <span className={`material-symbols-outlined${minQuantity === maxQuantity ? ' disabled' : ''}`} onClick={() => handleButtonClick(-1)}>remove</span>
             <input type="text" className="input input-bordered text-center" readOnly value={currentQuantity} />
-            <span className={`font-bold text-xl ${minQuantity === maxQuantity ? 'disabled' : ''}`} onClick={() => handleButtonClick()}>+</span>
+            <span className={`material-symbols-outlined${minQuantity === maxQuantity ? ' disabled' : ''}`} onClick={() => handleButtonClick()}>add</span>
         </label>
     </div>
   )

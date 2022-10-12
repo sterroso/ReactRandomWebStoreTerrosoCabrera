@@ -6,7 +6,7 @@ const CatalogMenuItem = (props) => {
 
   return (
     <li key={ category_id }>
-        <NavLink to={`/categories/${category_id}`} className="text-black">{ category_name }</NavLink>
+        <NavLink to={`/category/${category_id}`} className="text-white font-bold">{ category_name }</NavLink>
     </li>
   )
 }

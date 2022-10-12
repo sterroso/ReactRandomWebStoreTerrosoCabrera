@@ -37,18 +37,7 @@ const MainMenu = (props) => {
     return (
         <div className="flex-none">
             <ul className="menu menu-vertical lg:menu-horizontal bg-neutral text-neutral-content">
-                <li><a>Nosotros</a></li>
-                <li tabIndex={0}>
-                    <a>
-                        Catálogo
-                        <span className="material-symbols-outlined">expand_more</span>
-                    </a>
-                    <ul className="p-2 bg-base-100">
-                        {
-                            menuItems.map(item => <CatalogMenuItem {...item} />) }
-                    </ul>
-                </li>
-                <li><a>Contacto</a></li>
+                { menuItems.map(item => <CatalogMenuItem {...item} />) }
             </ul>
         </div>
     )
