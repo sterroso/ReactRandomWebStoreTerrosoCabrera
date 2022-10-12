@@ -43,7 +43,7 @@ const MainMenu = (props) => {
                         Catálogo
                         <span className="material-symbols-outlined">expand_more</span>
                     </a>
-                    <ul className="p-2 bg-neutral">
+                    <ul className="p-2 bg-base-100">
                         {
                             menuItems.map(item => <CatalogMenuItem {...item} />) }
                     </ul>

@@ -3,7 +3,7 @@ import React from 'react';
 const Slider = (props) => {
   return (
     <>
-        <div className='carousel w-full'>
+        <div className='carousel w-fit'>
             <div id='slide1' className='carousel-item w-full'>
                 <img src='https://api.lorem.space/image/watch?w=120&h=120' alt='Relojes para toda la familia' className='w-full' />
             </div>
