@@ -1,0 +1,1255 @@
+{
+	"articles": [
+		{
+			"article_id": 202,
+			"category_id": 20,
+			"article_name": "TimeMaster Pro",
+			"article_description": "Reloj piezoeléctrico para hombre con correa de cuero marrón, Oro",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 10996.04,
+			"article_stock": 31
+		},
+		{
+			"article_id": 303,
+			"category_id": 50,
+			"article_name": "Salvando al Soldado Ryan",
+			"article_description": "Después de desembarcar en Normandía, en plena Segunda Guerra Mundial, unos soldados norteamericanos deben arriesgar sus vidas para salvar al soldado James Ryan, cuyos tres hermanos han muerto en la guerra.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 37.45,
+			"article_stock": 13
+		},
+		{
+			"article_id": 404,
+			"category_id": 30,
+			"article_name": "Panam deportivo",
+			"article_description": "Calzado Casual Bota 100% Nacional, corte sintético y forro Textil, suela sintética.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2345.37,
+			"article_stock": 1
+		},
+		{
+			"article_id": 505,
+			"category_id": 40,
+			"article_name": "El Lobo estepario, Hermann Hesse",
+			"article_description": "El lobo estepario es una novela del escritor suizo-alemán Hermann Hesse publicada en 1927. Décima novela de Hesse, es uno de los títulos más célebres del escritor, que combina el estilo autobiográfico con algunos elementos de fantasía, especialmente hacia el final de la obra.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 327.31,
+			"article_stock": 34
+		},
+		{
+			"article_id": 606,
+			"category_id": 30,
+			"article_name": "Calzaleta comfort",
+			"article_description": "Creamos nuevas ideas de outfits para que sepas cómo vestir tus Sandalias Calzaletas con todo el estilo creando fantásticos looks.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2056.6,
+			"article_stock": 10
+		},
+		{
+			"article_id": 707,
+			"category_id": 40,
+			"article_name": "El silencio de los inocentes, Thomas Harris",
+			"article_description": "The Silence of the Lambs es una novela de misterio y terror escrita por Thomas Harris en 1988. En 1995, la Mystery Writers of America la incluyó en su lista de las cien mejores novelas de misterio de todos los tiempos.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 575.34,
+			"article_stock": 30
+		},
+		{
+			"article_id": 808,
+			"category_id": 60,
+			"article_name": "Héroes del Silencio",
+			"article_description": "Héroes del Silencio fue un grupo español de rock radicado en Zaragoza, formado inicialmente por Juan Valdivia y Enrique Bunbury, y completado con Joaquín Cardiel y Pedro Andreu, a mediados de los años 80.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 146.33,
+			"article_stock": 6
+		},
+		{
+			"article_id": 909,
+			"category_id": 80,
+			"article_name": "Ninja Gaiden III",
+			"article_description": "Ninja Gaiden 3 es un videojuego de aventuras y acción, continuación de Ninja Gaiden 2, desarrollado por Team Ninja y distribuido por Tecmo Koei, disponible para PlayStation 3 y Xbox 360",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1359.64,
+			"article_stock": 0
+		},
+		{
+			"article_id": 1010,
+			"category_id": 10,
+			"article_name": "Chamarra de Piel",
+			"article_description": "Chamarra en piel de ovino",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2218.38,
+			"article_stock": 1
+		},
+		{
+			"article_id": 1111,
+			"category_id": 40,
+			"article_name": "Oficio de tinieblas, Rosario Castellanos",
+			"article_description": "El freno al ímpetu nacionalista revolucionario, la institucionalización política y la separación de los intereses de la clase media frente a los del obrero y el campesino, caracterizaron el momento histórico en que se compuso Oficio de tinieblas, la más compleja y, artísticamente la más acabada de las novelas indigenistas de México.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 639.78,
+			"article_stock": 16
+		},
+		{
+			"article_id": 1212,
+			"category_id": 80,
+			"article_name": "Cyberpunk 2077",
+			"article_description": "Cyberpunk 2077 es un videojuego desarrollado y publicado por CD Projekt, que se lanzó para Microsoft Windows, PlayStation 4 y Xbox One el 10 de diciembre de 2020, y posteriormente en PlayStation 5, Xbox Series X/S y Google Stadia.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1399.5,
+			"article_stock": 30
+		},
+		{
+			"article_id": 1313,
+			"category_id": 80,
+			"article_name": "Minecraft",
+			"article_description": "Minecraft es un videojuego de construcción de tipo «mundo abierto» o sandbox creado originalmente por el sueco Markus Persson, ​ y posteriormente desarrollado por Mojang Studios.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1769.18,
+			"article_stock": 32
+		},
+		{
+			"article_id": 1414,
+			"category_id": 60,
+			"article_name": "Enanitos Verdes",
+			"article_description": "Los Enanitos Verdes o simplemente Enanitos Verdes y a veces abreviado EV inicialmente se llamaron Los Enanitos Verdes del Puente del Inca, es una banda argentina de rock en español de Mendoza.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 235.67,
+			"article_stock": 3
+		},
+		{
+			"article_id": 1515,
+			"category_id": 60,
+			"article_name": "Buenavista Social Club",
+			"article_description": "Buena Vista Social Club es el nombre de un club social muy popular de La Habana, Cuba, cuyos miembros practicaban el baile y la música.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 159.59,
+			"article_stock": 21
+		},
+		{
+			"article_id": 1616,
+			"category_id": 20,
+			"article_name": "Panerai Sumbersible",
+			"article_description": "Sólidos y resistentes, con una visibilidad inigualable incluso a grandes profundidades y una personalidad única, los nuevos relojes Panerai Submersible para submarinistas profesionales se inspiran en la historia de la marca pero también miran hacia el futuro gracias a sus innovadoras soluciones técnicas.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 8101.06,
+			"article_stock": 4
+		},
+		{
+			"article_id": 1717,
+			"category_id": 20,
+			"article_name": "Seiko Kinetic Legacy",
+			"article_description": "Como mecánico y cuarzo, Kinetic es una plataforma. Durante los últimos 20 años, Seiko ha creado en esta plataforma una serie de movimientos Kinetic, cada uno con características únicas para el consumidor.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 12060.39,
+			"article_stock": 9
+		},
+		{
+			"article_id": 1818,
+			"category_id": 50,
+			"article_name": "Los Locos Adams",
+			"article_description": "Homero, Morticia, Merlina y Pericles Addams se reencuentran con el tío Lucas y le dan la bienvenida a su extraña y escalofriante pero muy unida familia.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 47.34,
+			"article_stock": 12
+		},
+		{
+			"article_id": 1919,
+			"category_id": 40,
+			"article_name": "Como agua para chocolate, Laura Esquivel",
+			"article_description": "Como agua para chocolate, es una novela romántica escrita por Laura Esquivel, publicada en 1989, que trata acerca de la vida de una mujer, sus amoríos y la relación de esta con su familia, todo relacionado con la importancia de la cocina y las recetas típicas mexicanas de la época en que está ambientada su vida.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 142.65,
+			"article_stock": 35
+		},
+		{
+			"article_id": 2020,
+			"category_id": 80,
+			"article_name": "The Sims",
+			"article_description": "Los Sims es una serie de videojuegos de simulación social, diseñados por Will Wright y desarrollados inicialmente por Maxis y posteriormente por diferentes sellos de Electronic Arts. Siempre son distribuidos por Electronic Arts. Es una de las series de videojuegos más exitosas de todos los tiempos.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 808.44,
+			"article_stock": 29
+		},
+		{
+			"article_id": 2121,
+			"category_id": 20,
+			"article_name": "Tag Heuer Aquaracer",
+			"article_description": "La colección TAG Heuer Aquaracer es el reloj-herramienta por excelencia inspirado en el mundo acuático. Este reloj está protegido por un extraordinario cierre de doble seguridad y un bisel giratorio unidireccional.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 11399.22,
+			"article_stock": 9
+		},
+		{
+			"article_id": 2222,
+			"category_id": 10,
+			"article_name": "Sudadera Polo RL",
+			"article_description": "Sudadera Polo Ralph Lauren color gris, paracaballero.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1402.89,
+			"article_stock": 4
+		},
+		{
+			"article_id": 2323,
+			"category_id": 50,
+			"article_name": "Conan el Bárbaro",
+			"article_description": "Conan se organiza con un mongol y con una reina para quitarle la espada de su padre al rey de las serpientes.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 35.91,
+			"article_stock": 11
+		},
+		{
+			"article_id": 2424,
+			"category_id": 20,
+			"article_name": "Casio G-Shock",
+			"article_description": "Desde El Punto De Vista De G - Shock, La Resistencia Se Desarrolla Continuamente En El Proceso De Búsqueda De La Fuerza Final. El Modelo Adopta La Estructura De Protección Del Núcleo De Carbono.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 11172.77,
+			"article_stock": 30
+		},
+		{
+			"article_id": 2525,
+			"category_id": 10,
+			"article_name": "Pantalón corto de carga",
+			"article_description": "Pantalones cortos de carga de sarga premium con múltiples bolsillos para hombre.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1263.59,
+			"article_stock": 14
+		},
+		{
+			"article_id": 2626,
+			"category_id": 70,
+			"article_name": "Recámara Ébano",
+			"article_description": "Como parte de la colección Loreta, la recámara la conforman piezas que se caracterizan por su diseño Mid Century. Combínala con las demás piezas de la familia.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 15182.84,
+			"article_stock": 3
+		},
+		{
+			"article_id": 2727,
+			"category_id": 20,
+			"article_name": "Curren Galaxy Negro",
+			"article_description": "Estilo: Casual, Ejecutivo. Subdiales con Funciones Cronometro clásico en un reloj con estilo El extensible es de metal grueso y ligero. Cuenta con un broche de eslabones para ajustar a la muñeca.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 11993.31,
+			"article_stock": 26
+		},
+		{
+			"article_id": 2828,
+			"category_id": 80,
+			"article_name": "Frogger",
+			"article_description": "Frogger es un videojuego publicado, originalmente como arcade, en 1981. La licencia para la distribución mundial fue de Sega/Gremlin y fue desarrollado por Konami.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1490.31,
+			"article_stock": 10
+		},
+		{
+			"article_id": 2929,
+			"category_id": 70,
+			"article_name": "Comedor Venezzia",
+			"article_description": "Medida: 1.80x1.10 Altura: .80m Color: Enchapado en madera de Parota Incluye: 1 mesa Venecia y 6 sillas Holanda café Accesorios decorativo se venden por separado.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 5539.21,
+			"article_stock": 30
+		},
+		{
+			"article_id": 3030,
+			"category_id": 80,
+			"article_name": "Cuphead",
+			"article_description": "Nos encontramos delante de un título de corte clásico de acción y de armas muy focalizado en las batallas contra los jefes de nivel. Inspirado por los dibujos animados de los años 30.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 577.59,
+			"article_stock": 33
+		},
+		{
+			"article_id": 3131,
+			"category_id": 70,
+			"article_name": "Cómoda Arkane",
+			"article_description": "Sus seis cajones tienen un montón de espacio para la ropa y cualquier otro elemento de dormitorio que necesite guardar perfectamente fuera de la vista. Exhibir sus accesorios decorativos en la parte superior convierte una cómoda ya elegante en la pieza de su dormitorio.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 11745.33,
+			"article_stock": 27
+		},
+		{
+			"article_id": 3232,
+			"category_id": 20,
+			"article_name": "Timex Expedition",
+			"article_description": "Timex Expedition Camper, limpio, simple y de inspiración militar, no ha cambiado mucho desde 1918. Lo hicimos un poco más liviano, agregamos una correa Fast Wrap de nailon con cierre de velcro y nuestra exclusiva luz nocturna Indiglo.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 11082.81,
+			"article_stock": 8
+		},
+		{
+			"article_id": 3333,
+			"category_id": 20,
+			"article_name": "Invicta Quartz Green",
+			"article_description": "Tipo de cierre Cierre plegable de seguridad con botón de presión Diámetro de la caja 43 milímetros Grosor de la caja 12 milímetros Anchura de la correa 22 milímetros Función del bisel Unidireccional.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 12544.21,
+			"article_stock": 36
+		},
+		{
+			"article_id": 3434,
+			"category_id": 40,
+			"article_name": "La rebelión de los colgados, B. Traven",
+			"article_description": "La rebelión de los colgados forma, junto con Gobierno, La carreta, Marcha al imperio de la caoba, Monterías y El general, el 'Ciclo de la Caoba'. Estas novelas, independientes entre sí, narran el drama de los indígenas del México tropical a principios del siglo xx.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 362.74,
+			"article_stock": 15
+		},
+		{
+			"article_id": 3535,
+			"category_id": 50,
+			"article_name": "Hombre de Familia",
+			"article_description": "Dane Jensen (Gerard Butler) es un exitoso reclutador corporativo en Chicago que trabaja de tiempo completo sin tiempo ni espacio para su familia. Después de que su jefe Ed Blackridge (William Dafoe) decide retirarse",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 45.72,
+			"article_stock": 9
+		},
+		{
+			"article_id": 3636,
+			"category_id": 10,
+			"article_name": "Pantalón de Mezclilla",
+			"article_description": "Jeans a la Cintura De Mezclilla Stretch Ajustable para Mujer con Botones al frente y bolsas simuladas al frente. Mezclilla : 96% Algodón - 4% Elastano.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1315.64,
+			"article_stock": 22
+		},
+		{
+			"article_id": 3737,
+			"category_id": 40,
+			"article_name": "La fiesta del chivo, Mario Vargas Llosa",
+			"article_description": "La fiesta del Chivo es una novela publicada en el año 2000 del escritor peruano-español Mario Vargas Llosa.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 312.55,
+			"article_stock": 28
+		},
+		{
+			"article_id": 3838,
+			"category_id": 20,
+			"article_name": "Armani Exchange Stainless Steel",
+			"article_description": "Caja de acero inoxidable en tono dorado . Pulsera de acero inoxidable en tono dorado . Movimiento de cuarzo . cristal mineral . Esfera negra . Pantalla analógica . Visualización de la fecha . Parte posterior sólida del caso . Cierre de despliegue . 50 m de resistencia al agua.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 7622.9,
+			"article_stock": 31
+		},
+		{
+			"article_id": 3939,
+			"category_id": 50,
+			"article_name": "Vengadores, Endgame",
+			"article_description": "Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 36.14,
+			"article_stock": 29
+		},
+		{
+			"article_id": 4040,
+			"category_id": 10,
+			"article_name": "Saco deportivo",
+			"article_description": "Blazer de tipo deportivo con cuello redondo y solapa redonda. Cintura ajustable por agujeta en contrase. Bolsas delanteras. Manga Larga. Tela: 80% Poliéster 15%Viscosa 3% Elastano. Lavar a Mano / No usar blanqueador / No usar secadora / Planchar a vapor. Hecho en México.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1284.93,
+			"article_stock": 14
+		},
+		{
+			"article_id": 4141,
+			"category_id": 60,
+			"article_name": "La Maldita Vecindad y los Hijos del Quinto Patio",
+			"article_description": "Maldita Vecindad y los Hijos del Quinto Patio es un grupo musical mexicano, formado en la Ciudad de México en 1985 que fusiona ritmos como el rock, el ska, el reggae, el punk e influencias tradicionales de la música mexicana como el danzón y el bolero.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 208.97,
+			"article_stock": 11
+		},
+		{
+			"article_id": 4242,
+			"category_id": 10,
+			"article_name": "Camisa de franela roja",
+			"article_description": "Camisa de franela a cuasros, mayormente roja, talla M, marca Abercrombie, ideal para frio.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1311.52,
+			"article_stock": 21
+		},
+		{
+			"article_id": 4343,
+			"category_id": 60,
+			"article_name": "Un Tributo a José José",
+			"article_description": "Un Tributo (a José José) es un álbum de tributo de 1998 al cantante mexicano José José.​ Realizando homenaje a José José por su influencia en la música de pop latino.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 225.16,
+			"article_stock": 17
+		},
+		{
+			"article_id": 4444,
+			"category_id": 60,
+			"article_name": "Natalia Lafourcade",
+			"article_description": "María Natalia Lafourcade Silva, conocida simplemente como Natalia Lafourcade, es una cantante, ​ compositora, ​actriz, ​ productora musical, ​ arreglista, ​ diseñadora, ​ y activista mexicana.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 233.68,
+			"article_stock": 13
+		},
+		{
+			"article_id": 4545,
+			"category_id": 80,
+			"article_name": "The Witcher III: Wild Hunt",
+			"article_description": "The Witcher 3: Wild Hunt es un videojuego de rol desarrollado y publicado por la compañía polaca CD Projekt RED.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1367.15,
+			"article_stock": 27
+		},
+		{
+			"article_id": 4646,
+			"category_id": 10,
+			"article_name": "Falda de terciopelo azul",
+			"article_description": "Falda de terciopelo en un lindo color azul Talla CHEs muy elegante y moderna a la vez Modelo original ideal para el invierno.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 679.2,
+			"article_stock": 22
+		},
+		{
+			"article_id": 4747,
+			"category_id": 30,
+			"article_name": "Botas de piel Cuadra",
+			"article_description": "La elegancia y suavidad de la piel genuina hacen de este diseño un esencial en el armario del hombre tradicional. Un modelo que podrás combinar con tus atuendos favoritos, sin importar tu estilo.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2170.41,
+			"article_stock": 10
+		},
+		{
+			"article_id": 4848,
+			"category_id": 70,
+			"article_name": "Ropero Avanza",
+			"article_description": "Ropero Closet Armario Mueble Moderno 6 Puertas 2cajones Casa 6 Puertas Y 2 Cajones Con Rieles Metálicos. Material 100% Mdp.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 6935.96,
+			"article_stock": 11
+		},
+		{
+			"article_id": 4949,
+			"category_id": 80,
+			"article_name": "Metal Gear Solid V: The Phantom Pain",
+			"article_description": "Metal Gear Solid V: The Phantom Pain es un videojuego de sigilo y acción-aventura de la saga Metal Gear, desarrollado por Kojima Productions y producido por Hideo Kojima, para las videoconsolas PlayStation 3, PlayStation 4, Xbox 360, Xbox One y PC.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1804.63,
+			"article_stock": 2
+		},
+		{
+			"article_id": 5050,
+			"category_id": 80,
+			"article_name": "Mega Man X",
+			"article_description": "Es el año 21XX. Mientras se intentaba hallar un registro fósil, el Dr. Cain, un científico humano, ha encontrado una cápsula que contiene a un misterioso robot del pasado - Mega Man X. Esta cápsula contiene un mensaje de advertencia de su creador, el Dr. Light.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 436.91,
+			"article_stock": 7
+		},
+		{
+			"article_id": 5151,
+			"category_id": 30,
+			"article_name": "Sneakers Puma amarillos",
+			"article_description": "Amarillo, gamuza, diseño de dos tonos, puntera redonda, cierre con agujetas en la parte delantera, parche del logo en la lengüeta, lengüeta en la parte posterior, plantilla con logo y suela de goma.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 1709.76,
+			"article_stock": 31
+		},
+		{
+			"article_id": 5252,
+			"category_id": 70,
+			"article_name": "Juego de Sala Victoria",
+			"article_description": "SALA VICTORIA La base es de madera de pino, resistente y duradero. tapizada en Tacto piel chocolate.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 11572.23,
+			"article_stock": 7
+		},
+		{
+			"article_id": 5353,
+			"category_id": 10,
+			"article_name": "Cardigan color hueso",
+			"article_description": "Cuello: Cuello en V; Diseño: Puños acanaladod, Hombro superpuesto, Para anudar/atar; Estampado: Color liso; Extras: Tacto suave; Longitud de la manga: Manga larga; Longitud: Normal; Ajuste: Ajuste regular.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2391.13,
+			"article_stock": 12
+		},
+		{
+			"article_id": 5454,
+			"category_id": 30,
+			"article_name": "Sandalias Calzamex",
+			"article_description": "Sandalias Universales Mujer Cuña Empeine Ancho Suaves Cómodas Transpirables La suela exterior de goma antideslizante y resistente a la abrasión brinda equilibrio y estabilidad para trabajar todo el día.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2158.44,
+			"article_stock": 29
+		},
+		{
+			"article_id": 5555,
+			"category_id": 80,
+			"article_name": "Rabbids Crazy Rush",
+			"article_description": "Haz el tonto como nunca en el nuevo juego de carreras de los rabbids: ¡RABBIDS CRAZY RUSH!",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1241.47,
+			"article_stock": 8
+		},
+		{
+			"article_id": 5656,
+			"category_id": 30,
+			"article_name": "Botas Offlander Lona",
+			"article_description": "Diseño, materiales, mano de obra y actitud Hecha en México. Cada par Offlander es creado de manera artesanal y se revisa uno a uno antes de enviártelo. Viste a la moda con estas increíbles botas tipo militar, tenemos en todos los colores.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2654.83,
+			"article_stock": 15
+		},
+		{
+			"article_id": 5757,
+			"category_id": 60,
+			"article_name": "Chava Flores",
+			"article_description": "Salvador Flores Rivera, conocido como Chava Flores, fue un prolífico compositor e intérprete de canciones mexicanas populares.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 184.23,
+			"article_stock": 7
+		},
+		{
+			"article_id": 5858,
+			"category_id": 50,
+			"article_name": "Halloween Kills",
+			"article_description": "Laurie y su hija Karen descubren que Michael sigue vivo y ha regresado a completar la matanza. Sin embargo, esta vez todas las víctimas supervivientes que Michael ha dejado en Haddonfield se unen para acabar para siempre con el monstruo.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 40.5,
+			"article_stock": 5
+		},
+		{
+			"article_id": 5959,
+			"category_id": 70,
+			"article_name": "Cocina Integral CHUYITA",
+			"article_description": "Renueva tu cocina, equipándola con lo necesario para preparar tus deliciosos platillos. Traemos para ti esta hermosa Cocina integral modelo Chuyita en color gris, fabricada en MDF y un elegante acabado de laca poliuretano.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 11146.56,
+			"article_stock": 30
+		},
+		{
+			"article_id": 6060,
+			"category_id": 70,
+			"article_name": "Sillón Max",
+			"article_description": "Tejido:Poliéster / Algodón; Artesanías:Flock; Qué hay en la caja:Cobertor de Sillas1; Cantidad:1; Nota:A lavadora, No lejía, Plancha; Adjunto:Bordes elásticos; Tipo:Cobertor de Sillas; Estilo:Liso / sólido,Clásico.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 7389.6,
+			"article_stock": 9
+		},
+		{
+			"article_id": 6161,
+			"category_id": 10,
+			"article_name": "Abrigo de gabardina rojo",
+			"article_description": "Abrigo tipo gabardina para dama, estilo clásico, combinalo con tu atuendo favorito, en cualquier temporada del año.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1749.97,
+			"article_stock": 11
+		},
+		{
+			"article_id": 6262,
+			"category_id": 60,
+			"article_name": "Lana Del Rey",
+			"article_description": "Elizabeth Woolridge Grant, ​más conocida por su nombre artístico Lana Del Rey, es una cantante, compositora, modelo y productora estadounidense.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 160.94,
+			"article_stock": 35
+		},
+		{
+			"article_id": 6363,
+			"category_id": 30,
+			"article_name": "Chanclas de Playa",
+			"article_description": "Chanclas, zapatillas de verano, ropa exterior, playa, moda, Clip-on, flor, playa, zapatos para mujer.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2682.81,
+			"article_stock": 5
+		},
+		{
+			"article_id": 6464,
+			"category_id": 30,
+			"article_name": "Cocodrilos",
+			"article_description": "Los Zapatos Más Cómodos Del Mundo! La colección de Sandalias Crocs Classic Clog Negro Unisex Niños, tiene un diseño deportivo que es fácil de poner y quitar, una variedad de colores y diseños que estimulan la energía.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 920.01,
+			"article_stock": 23
+		},
+		{
+			"article_id": 6565,
+			"category_id": 80,
+			"article_name": "Genshin Impact",
+			"article_description": "Super Mario 3D World Bowsers Fury para Nintendo Switch Si ya te hace falta jugar algo nuevo ya la vez clásico, entonces necesitas el estilo de juego de libre exploración de Super Mario el cual regresa en esta nueva aventura en la que Bowser es gigantesco y ha perdido el control.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1566.11,
+			"article_stock": 11
+		},
+		{
+			"article_id": 6666,
+			"category_id": 50,
+			"article_name": "Danza con Lobos",
+			"article_description": "Al terminar la guerra civil estadounidense, el militar John Dunbar crea una estrategia no violenta de acercamiento a los indios sioux. Los indígenas encuentran curiosa la amistad de Dunbar con un lobo y terminan entablando una relación con él.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 40.78,
+			"article_stock": 0
+		},
+		{
+			"article_id": 6767,
+			"category_id": 40,
+			"article_name": "El espejo enterrado, Carlos Fuentes",
+			"article_description": "El espejo enterrado nos brinda un vasto reflejo que abarca los 500 anos transcurridos desde el primer viaje de Cristobal Colon, que constituyo una de las empresas intelectuales mas significativas de la humanidad y, especificamente, de 1492.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 624.11,
+			"article_stock": 15
+		},
+		{
+			"article_id": 6868,
+			"category_id": 30,
+			"article_name": "Zapato en Plataforma Pull&Bear",
+			"article_description": "Disponible En Varios Colores. Pulsera Con Hebilla En El Tobillo. Plantilla Técnica Flexible De Espuma De Poliuretano Starfit , Diseñada Para Ofrecer Más Comodidad. Altura De La Plataforma 4 Cm Y Altura Del Tacón 12.5 Cm. para mujer.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2725.43,
+			"article_stock": 21
+		},
+		{
+			"article_id": 6969,
+			"category_id": 50,
+			"article_name": "Leyendas de Pasión",
+			"article_description": "Un coronel de Montana y sus tres hijos sufren la devastadora tragedia del amor y la guerra a principios del siglo XX.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 45.34,
+			"article_stock": 10
+		},
+		{
+			"article_id": 7070,
+			"category_id": 20,
+			"article_name": "Reloj Disney Mickey Mouse",
+			"article_description": "El reloj inteligente Disney Mickey Mouse para niños viene cargado con características aptas para niños para que tu hijo disfrute de portátiles inteligentes como los adultos",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 14556.92,
+			"article_stock": 4
+		},
+		{
+			"article_id": 7171,
+			"category_id": 70,
+			"article_name": "Mesa de centro Kohinor",
+			"article_description": "MESA DE CENTRO INDUSTRIAL ELABORADA CON MADERA SOLIDA AL 100%(DURABILIDAD GARANTIZADA) MEDIDAS: 100 CM DE LARGO, 60 CM ANCHO 40 CM ALTURA",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 7319.93,
+			"article_stock": 2
+		},
+		{
+			"article_id": 7272,
+			"category_id": 70,
+			"article_name": "Librero Pokahara",
+			"article_description": "Moderno y armable librero y juguetero con repisas de madera y estructura tubular.MULTIUSO.4 repisas útiles y resistentes para colocar libros.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 6817.55,
+			"article_stock": 29
+		},
+		{
+			"article_id": 7373,
+			"category_id": 30,
+			"article_name": "Sandalias de piel TIRAS",
+			"article_description": "Zara - KIDS/ SANDALIA PIEL TIRAS - Marrón - unisex - Sandalia de tiras 100% piel vacuna. Cierre mediante tira con hebilla al tobillo. Plantilla 100% piel caprina y suela de goma.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 1340.32,
+			"article_stock": 2
+		},
+		{
+			"article_id": 7474,
+			"category_id": 10,
+			"article_name": "Pantalón De Vestir Dama Stretch",
+			"article_description": "Pantalón de vestir entubado Tipo de tela milenium jacquard stretch Talla 7 Cintura 68cm Cadera 74 cm Talla 9 Cintura 70 cm Cadera 76 cm Talla 11 Cintura 76 cm Cadera 82 cm Talla 13 Cintura 80 cm Cadera 86 cm Un pantalón de exelente calidad en tela y estilo Para complementar tu outfit.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2321.95,
+			"article_stock": 11
+		},
+		{
+			"article_id": 7575,
+			"category_id": 40,
+			"article_name": "El Libro Tibetano De La Vida Y De La Muerte",
+			"article_description": "Con prólogo a cargo del Dalai Lama. Un clásico que cumple veinte años y sigue siendo un libro de referencia. Una obra maestra revisada que te dará una visión nueva sobre la muerte y el universo.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 305.62,
+			"article_stock": 35
+		},
+		{
+			"article_id": 7676,
+			"category_id": 30,
+			"article_name": "Zapatos Casuales York Team Polo Club para Hombre 27",
+			"article_description": "Revela tu lado más casual con estos geniales zapatos marca York Team Polo Club. Son un calzado de diseño elegante, con detalle de mezclilla en el talón y aplicación de color café con del diseño de la marca.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2783.55,
+			"article_stock": 13
+		},
+		{
+			"article_id": 7777,
+			"category_id": 50,
+			"article_name": "Depredador",
+			"article_description": "Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 37.75,
+			"article_stock": 27
+		},
+		{
+			"article_id": 7878,
+			"category_id": 80,
+			"article_name": "Elden Ring para PS5",
+			"article_description": "Una aventura de RPG de acción y fantasía situada en un mundo creado por Hidetaka Miyazaki -creador de la serie de videojuegos de alta influencia Dark Souls y George R.R. Martin - autor de las novelas best seller de The New York Times, Canción de Hielo y Fuego. Peligro y descubrimiento acechan en cada una de las esquinas.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 420.6,
+			"article_stock": 11
+		},
+		{
+			"article_id": 7979,
+			"category_id": 30,
+			"article_name": "Mocasines Refill para Hombre 27",
+			"article_description": "Luce fantástico y a la moda con estos zapatos mocasines de la marca Refill, el complemento ideal para tus atuendos. Este diseño en color negro tiene detalles grises en la parte de arriba para añadirle contraste y un aspecto más casual. Cuentan con una suela sintética.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2221.41,
+			"article_stock": 30
+		},
+		{
+			"article_id": 8080,
+			"category_id": 30,
+			"article_name": "Zapatillas Frida Kollection",
+			"article_description": "Camina con porte y elegancia al complementar tu atuendo de vestir con estas bonitas zapatillas de la marca Frida Kollection. Son de color beige, con altura de tacón de 10 cm y suela sintética.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2301.57,
+			"article_stock": 26
+		},
+		{
+			"article_id": 8181,
+			"category_id": 60,
+			"article_name": "David Bowie",
+			"article_description": "David Robert Jones, ​​ más conocido por su nombre artístico David Bowie, ​ fue un cantautor, actor, multiinstrumentista y diseñador británico.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 160.36,
+			"article_stock": 2
+		},
+		{
+			"article_id": 8282,
+			"category_id": 10,
+			"article_name": "Jogger Para Hombre Fugitive Trend Ryval",
+			"article_description": "Nuestro primer modelo completamente en poliester de la alta calidad. suave fresco y super comodo Ademas Cuenta con 2 Cierres laterales, para asegurar tus objetos Permite que nuestro nuevo modelo Jogger Fugitive te acompañe a tus actividades diarias, tanto deportivas como en la vida cotidiana.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2200.23,
+			"article_stock": 8
+		},
+		{
+			"article_id": 8383,
+			"category_id": 70,
+			"article_name": "Sofa Cama Matrimonial Moderno",
+			"article_description": "El Sofá cama Ingenia, es el más reciente diseño de en la línea de Mobydec Muebles. Este innovador Sofá cama es sinónimo de estilo, confort y versatilidad, ya que cuenta con un respaldo que puede acomodarse en 3 posiciones diferentes para que se pueda adaptar a cualquier tipo de requerimiento.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 10677.74,
+			"article_stock": 0
+		},
+		{
+			"article_id": 8484,
+			"category_id": 10,
+			"article_name": "Overall Levi's azul claro",
+			"article_description": "Overall Levi's de corte recto en mezclilla, tirantes unidos por la espalda, tres bolsillos y parche al frente.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 1326.69,
+			"article_stock": 4
+		},
+		{
+			"article_id": 8585,
+			"category_id": 70,
+			"article_name": "Escritorio Nórdico Con Estantería",
+			"article_description": "Escritorio modelo nordico con estantería para cualquier habitación, oficina o centro de estudio aprovecha todo el espacio que este escritorio puede ofrecer!! medidas: frente: 140 cm. fondo: 50 cm alto: 75/ 135 cm. elegante diseño cuenta con puerta y estantería sobre cubierta y pata",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 13206.32,
+			"article_stock": 16
+		},
+		{
+			"article_id": 8686,
+			"category_id": 60,
+			"article_name": "Miguel Mateos",
+			"article_description": "Miguel Ángel Mateos Sorrentino, más conocido como Miguel Mateos ​ es un cantautor y músico argentino de rock.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 137.92,
+			"article_stock": 24
+		},
+		{
+			"article_id": 8787,
+			"category_id": 20,
+			"article_name": "Samsung galaxy watch 4 40 mm rosa",
+			"article_description": "Diseñamos el nuevo Galaxy Watch 4 para que sea el compañero de tu viaje hacia una vida más saludable. Supervisa tu estado físico con nuestro primer reloj inteligente que mide la composición corporal. Mide tu porcentaje de grasa corporal, músculo esquelético, agua corporal y más, alcanza tus objetivos.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 14139.34,
+			"article_stock": 10
+		},
+		{
+			"article_id": 8888,
+			"category_id": 20,
+			"article_name": "Smartwatch Fossil Gen 6 Hombre Acero Inoxidable V",
+			"article_description": "Smartwatch Fossil Gen 6; Muchas más funciones. Mucho más rápido. Este smartwatch Gen 6 con pantalla táctil de 44 mm tiene un brazalete de acero inoxidable en tono ahumado, velocidad de carga 2 veces más rápida (80% en poco más de 30 minutos), tecnología Qualcomm 4100+ y muchísimas opciones de personalización.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 7645.81,
+			"article_stock": 21
+		},
+		{
+			"article_id": 8989,
+			"category_id": 20,
+			"article_name": "Reloj Mido Commander Ii para Caballero",
+			"article_description": "El reloj Commander Icône rinde homenaje a uno de los modelos más icónicos de Mido. Su diseño neo-vintage adopta la mayoría de los códigos que llevaron al Commander al éxito: líneas extremadamente depuradas, una amplia y magnífica carátula satinada con efecto rayos de sol y el brazalete de malla milanesa. Está dotado del Calibre 80 Chronometer Silicon, un movimiento automático cronómetro certificado por el COSC con espiral de silicio.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 7967.85,
+			"article_stock": 1
+		},
+		{
+			"article_id": 9090,
+			"category_id": 30,
+			"article_name": "Bershka Botines Tacón Ajustados",
+			"article_description": "Botines tacón ajustados color: negro size: 24 material: poliuretano;poliéster;poliuretano termoplástico.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2243.86,
+			"article_stock": 20
+		},
+		{
+			"article_id": 9191,
+			"category_id": 30,
+			"article_name": "Mocasín para Hombre Quirelli Negro",
+			"article_description": "Mocasin para Hombre en Piel, por los que los hace cómodos al caminar sin perder el estilo y llevar la elegancia que buscas. El calzado de Quirelli es ideal para un look Casual que permite que los uses todos los días y en cualquier ocasión.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 1195.98,
+			"article_stock": 13
+		},
+		{
+			"article_id": 9292,
+			"category_id": 20,
+			"article_name": "Reloj Cuarzo Aviator Boeing 3934",
+			"article_description": "Gana tus alas con el resistente reloj de aviador de primera clase que aporta estilo y durabilidad a tus aventuras de alto vuelo. Tamaño de la caja: 43 mm ESTILO DE ALTO VUELO: el dial audaz y texturizado y el subdial de segundos mantienen su tiempo fácil de leer sin importar la altitud.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 11967.67,
+			"article_stock": 20
+		},
+		{
+			"article_id": 9393,
+			"category_id": 70,
+			"article_name": "Silla Vintage Brown Hueso",
+			"article_description": "Color: Silla Beige Material: Tela Tapiz: Lino Hueso Fabricado en Madera de Pino Tapizado en Asiento y Respaldo Respaldo Capitoneado.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 17520.02,
+			"article_stock": 3
+		},
+		{
+			"article_id": 9494,
+			"category_id": 60,
+			"article_name": "Flans",
+			"article_description": "Flans es un grupo musical mexicano, integrado originalmente por Ivonne Guevara García, Ilse María Olivo Schweinfurth e Irma Angélica Hernández Ochoa, que alcanzó el éxito durante la segunda mitad de la década de los ochenta.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 135.18,
+			"article_stock": 11
+		},
+		{
+			"article_id": 9595,
+			"category_id": 20,
+			"article_name": "Reloj Bulova 98B104",
+			"article_description": "Cronógrafo Este atractivo reloj Bulova Marine Star para caballero combina la tecnología de un reloj del siglo XXI con un estilo inigualable. El oro rosa de su caja hace una mancuerna perfecta con el negro de la correa de caucho y con los números romanos de su carátula. Un accesorio ideal para el hombre de gustos modernos y definidos.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 9759.06,
+			"article_stock": 14
+		},
+		{
+			"article_id": 9696,
+			"category_id": 30,
+			"article_name": "Pantuflas Canadá",
+			"article_description": "Lo mejor de estar en casa es andar en pijama, descansar... y usar estas pantuflas Canadá. Por su diseño con líneas son clásicas y combinables. Están hechas con materiales textiles y tienen forro suave para conceder mayor calidez.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2244.02,
+			"article_stock": 13
+		},
+		{
+			"article_id": 9797,
+			"category_id": 20,
+			"article_name": "Reloj Michael Kors",
+			"article_description": "El reloj Runway fino es una obra de arte monocromática diseñada con un lujoso acabado pulido en color negro. Los indicadores de hora en tonos similares y nuestro emblemático logotipo grabado hacen que esta llamativa pieza sea el paradigma de la elegancia. Póntelo para añadir un toque de refinamiento a cualquier ocasión ya sea con tus looks informales favoritos o con tus conjuntos para la oficina.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 6995.4,
+			"article_stock": 5
+		},
+		{
+			"article_id": 9898,
+			"category_id": 60,
+			"article_name": "La Cuca",
+			"article_description": "Cuca es una banda de rock mexicana originaria de Guadalajara, Jalisco, formada en 1989 por el músico y pintor cubano José Fors. El grupo es conocido por el tema 'El Son del Dolor' a nivel nacional e internacional. Su primer concierto oficial según la banda fue el 14 de febrero de 1990.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 191.56,
+			"article_stock": 32
+		},
+		{
+			"article_id": 9999,
+			"category_id": 30,
+			"article_name": "Bota Vaquera Qualifier",
+			"article_description": "Los pies pasan por mucho en un día, por lo que nuestra bota está lista para brindar su apoyo. La tecnología Ariat Shock Shield reduce el impacto del golpe del talón, creando una absorción de impactos óptima y minimizando la fatiga del pie. Corte de cuero de plena flor de primera calidad y presenta un eje de puntada occidental clásica y detalles perforados a lo largo del empeine.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2226.52,
+			"article_stock": 23
+		},
+		{
+			"article_id": 10100,
+			"category_id": 50,
+			"article_name": "El Hobbit: Un viaje Inesperado",
+			"article_description": "Bilbo Bolsón lleva una vida sencilla con sus compañeros hobbits en la comarca, hasta que el mago Gandalf llega y lo convence de unirse a un grupo de enanos para recuperar el reino de Erebor. El viaje lleva a Bilbo en un camino a través de tierras peligrosas llenas de orcos, goblins y otras amenazas.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 37.43,
+			"article_stock": 1
+		},
+		{
+			"article_id": 10201,
+			"category_id": 20,
+			"article_name": "Reloj Infantil Smartwatch Dc Batman",
+			"article_description": "El reloj inteligente Batman para niños viene cargado con características aptas para niños para que tu hijo disfrute de portátiles inteligentes como los adultos. Sin embargo, a diferencia de los relojes inteligentes para adultos, este reloj está diseñado específicamente pensando en los niños. Sin wifi, llamadas o mensajes de texto, puedes estar seguro de la seguridad de tu hijo mientras disfrutan de las diversas características geniales adecuadas para la edad.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 13239.56,
+			"article_stock": 28
+		},
+		{
+			"article_id": 10302,
+			"category_id": 80,
+			"article_name": "Lego Batman 2: Dc Super Heroes",
+			"article_description": "Son malvados, poderosos y están bien armados pero... ¿qué harán frente a los superhéroes más poderosos de la Tierra? Batman y Robin han encontrado nuevos aliados que vienen dispuestos a transportarnos a la aventura de LEGO más grande y espectacular hasta la fecha. Batman y Robin vuelven en la secuela del best-seller LEGO Batman: El Videojuego.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 552.45,
+			"article_stock": 33
+		},
+		{
+			"article_id": 10403,
+			"category_id": 30,
+			"article_name": "Tenis Adidas Grand Court Base Negro Ee7900",
+			"article_description": "Tenis GRAND COURT BASE de referencia EE7908 para hombre. Tenis deportivos con el clásico look de los 70. Rinde homenaje al estilo retro del deporte blanco. Estos tenis de cuero sintético suave se inspiran en los diseños deportivos de la década de los 70.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2377.93,
+			"article_stock": 11
+		},
+		{
+			"article_id": 10504,
+			"category_id": 20,
+			"article_name": "Reloj Diray Gents Black",
+			"article_description": "En color Negro, movimiento de cuarzo, cristal resina, resistente a 50 mts., medida de carátula 56 mm.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 10171.71,
+			"article_stock": 23
+		},
+		{
+			"article_id": 10605,
+			"category_id": 70,
+			"article_name": "Vitrina Guanabara B - Negro",
+			"article_description": "La bella vitrina Guanabara es un elegante mueble pensado para guardar las piezas favoritas de tu hogar. Cuenta con un almacenaje amplio y, además, posee un diseño elegante que dan un toque único a tu casa. Está hecha con MDP.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 13360.01,
+			"article_stock": 27
+		},
+		{
+			"article_id": 10706,
+			"category_id": 40,
+			"article_name": "Momo, Michael Ende",
+			"article_description": "Momo es una niña muy especial, posee la maravillosa cualidad de hacer sentir bien a todo aquel que la escucha. Pero la llegada de los hombres grises, que pretenden apoderarse del tiempo de las personas, va a cambiar su vida.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 271.94,
+			"article_stock": 18
+		},
+		{
+			"article_id": 10807,
+			"category_id": 10,
+			"article_name": "Traje Sastre De Lino",
+			"article_description": "Hermosísimo traje sastre de lino de color gris y rayas blancas. Utilizar un traje sastre no tiene que ser aburrido. Te va a encantar.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2272.42,
+			"article_stock": 7
+		},
+		{
+			"article_id": 10908,
+			"category_id": 30,
+			"article_name": "Panam Tenis Mujer Moda Casual Diseño Cómodo Gris",
+			"article_description": "Panam tenis elaborado en Textil, Gris punta redonda y suela antiderrapante. Disfruta de la comodidad y el diseño que este tenis Panam te ofrece y dale una apariencia deportiva a tu outfit. Producto 100% mexicano.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 951.46,
+			"article_stock": 31
+		},
+		{
+			"article_id": 11009,
+			"category_id": 70,
+			"article_name": "Bufetera Gris Akane",
+			"article_description": "Fabricado en Madera y MDF con Melamina 1 Pieza: 2 Puertas Laterales 1 Cajón 2 Puertas de Cristal Entrepaño para Cava de Vinos",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 17573.28,
+			"article_stock": 31
+		},
+		{
+			"article_id": 11110,
+			"category_id": 80,
+			"article_name": "Lego Marvel Super Heroes 2",
+			"article_description": "Los héroes más poderosos del mundo se unen de nuevo a LEGO en un nuevo videojuego: LEGO Marvel Super Heroes 2. El título transporta a los jugadores a una batalla cósmica por un montón de lugares de Marvel aislados del espacio y el tiempo, y que ahora se encuentran en el increíble mundo abierto de Chronopolis.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 910.02,
+			"article_stock": 24
+		},
+		{
+			"article_id": 11211,
+			"category_id": 40,
+			"article_name": "Algorithms to Live By, Brian Christian & Tom Griffiths",
+			"article_description": "What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of the new and familiar is the most fulfilling? These may seem like uniquely human quandaries, but they are not. Computers, like us, confront limited space and time, so computer scientists have been grappling with similar problems for decades. And the solutions they’ve found have much to teach us.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 444.74,
+			"article_stock": 12
+		},
+		{
+			"article_id": 11312,
+			"category_id": 70,
+			"article_name": "Mesa Comedor Estilo Industrial Minimalista - Modelo Vane",
+			"article_description": "Mesa para comedor estilo minimalista para 8 personas. Estructura de metal y base de madera.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 13603.68,
+			"article_stock": 22
+		},
+		{
+			"article_id": 11413,
+			"category_id": 60,
+			"article_name": "Luis Pescetti",
+			"article_description": "Luis María Pescetti es un escritor, músico y cantante argentino. Ha publicado obras para niños y adultos.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 153.99,
+			"article_stock": 15
+		},
+		{
+			"article_id": 11514,
+			"category_id": 30,
+			"article_name": "Zapatos de Vestir Christian Gallery",
+			"article_description": "Destaca tu vestimenta de vestir al combinar tu atuendo con estos zapatos de la marca Christian Gallery. Es un calzado diseñado en color café, lo que le da un toque elegante.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 969.45,
+			"article_stock": 5
+		},
+		{
+			"article_id": 11615,
+			"category_id": 30,
+			"article_name": "Lumberjack NAVIGATOR Mocasines",
+			"article_description": "Mocassino Marrón de Lumberjack.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2553.02,
+			"article_stock": 29
+		},
+		{
+			"article_id": 11716,
+			"category_id": 40,
+			"article_name": "El Libro Rojo",
+			"article_description": "El lector tiene en sus manos la obra visionaria que surge del encuentro de C. G. Jung con la profundidad de lo inconsciente durante los años 1913 y 1916 y de la lenta labor de interpretación simbólica que llevó a cabo desde 1914 a 1930.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 522.91,
+			"article_stock": 16
+		},
+		{
+			"article_id": 11817,
+			"category_id": 10,
+			"article_name": "Norma Kamali VESTIDO LARGO en Negro",
+			"article_description": "95% poliéster, 5% spandex. Tejido jersey ajustado con bordes cortados a láser y abertura lateral.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2213.37,
+			"article_stock": 17
+		},
+		{
+			"article_id": 11918,
+			"category_id": 60,
+			"article_name": "Frédéric Chopin",
+			"article_description": "Frédéric François Chopin​ fue un profesor, compositor y virtuoso pianista polaco, considerado uno de los más importantes de la historia y uno de los mayores representantes del Romanticismo musical.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 212.76,
+			"article_stock": 22
+		},
+		{
+			"article_id": 12019,
+			"category_id": 70,
+			"article_name": "REPOSET SUECIA haspe gris",
+			"article_description": "Comodidad y dinamismo se conjugan en el reposet SUECIA fabricado en madera de pino.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 8800.63,
+			"article_stock": 28
+		},
+		{
+			"article_id": 12120,
+			"category_id": 20,
+			"article_name": "Swatch AFTER-DINNER",
+			"article_description": "Movimiento: Ø: 41.00. Material De La Caja: acero inoxidable. Color De La Caja: amarillo. Color De La Esfera: amarillo. Material De La Correa: cuero. Color De La Correa: negro. Cierre De La Correa: mariposa. Resistente Al Agua: 0.3 Bar. Garantia: 24 Meses.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 10267.63,
+			"article_stock": 11
+		},
+		{
+			"article_id": 12221,
+			"category_id": 30,
+			"article_name": "Zapatos Confort Hush Puppies",
+			"article_description": "Con estos zapatos confort de la marca Hush Puppies tienes la certeza de que te sientes cómodo en todo momento. Su diseño fabricado 100% con piel es perfecto para que los uses todos los días, ya que son muy ligeros y se amoldan a tu pie.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2408.71,
+			"article_stock": 4
+		},
+		{
+			"article_id": 12322,
+			"category_id": 20,
+			"article_name": "Victorinox Reloj Fieldforce Chrono",
+			"article_description": "Llegar tarde a tus compromisos ya no es opción, con este reloj pulsera cumple con todos horarios y no te pierdas ningún evento importante. Súmale estilo a tu outfit, es el complemento ideal.",
+			"article_image_url": "https://api.lorem.space/image/watch?w=180&h=120",
+			"article_price": 13546.38,
+			"article_stock": 28
+		},
+		{
+			"article_id": 12423,
+			"category_id": 70,
+			"article_name": "Buró Alex Café",
+			"article_description": "Complementa la decoración de tu recámara con este buró de la marca Rey, ideal para darle un toque contemporáneo a tus espacios. Este modelo Alex está fabricado con madera industrializada en color café claro para que la puedas combinar con toda la decoración de tu cuarto. Tiene un cajón y una pequeña repisa en la parte de abajo para que puedas acomodar tus cosas sin problemas. Sus medidas son 40 x 40 x 60 cm.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 7319.17,
+			"article_stock": 11
+		},
+		{
+			"article_id": 12524,
+			"category_id": 50,
+			"article_name": "Harry Potter: Complete Collection Years 1-7 DVD",
+			"article_description": "Harry Potter: colección completa de 8 film. Formato de DVD Edición: juego de cajas. Código de región 1.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 47.8,
+			"article_stock": 1
+		},
+		{
+			"article_id": 12625,
+			"category_id": 80,
+			"article_name": "LEGO Harry Potter: Years 1-4",
+			"article_description": "Revive las aventuras mágicas de Harry Potter en el juego de aventura LEGO Harry Potter: Years 1-4 desarrollado por TT Games que sigue la historia de los cuatro primeros libros de Harry Potter. Ron and Hermione también están disponibles como personajes jugables junto a Harry cuando comienzas tu aventura por Hogwarts, aprendiendo tus primeros hechizos y topándote con tus primeras aventuras.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1138.67,
+			"article_stock": 2
+		},
+		{
+			"article_id": 12726,
+			"category_id": 60,
+			"article_name": "Queen",
+			"article_description": "Queen es una banda británica de rock formada en 1970 en Londres por el cantante y pianista Freddie Mercury, el guitarrista Brian May y el baterista Roger Taylor. El bajista John Deacon llegaría un año después al grupo para completar la formación clásica.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 232.13,
+			"article_stock": 19
+		},
+		{
+			"article_id": 12827,
+			"category_id": 40,
+			"article_name": "To Kill A Mockingbird, Harper Lee",
+			"article_description": "To Kill A Mockingbird The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 520.99,
+			"article_stock": 30
+		},
+		{
+			"article_id": 12928,
+			"category_id": 10,
+			"article_name": "H&M - Playera estampada - Black",
+			"article_description": "Playera en punto de algodón con diseño estampado al frente y borde acanalado en el cuello.",
+			"article_image_url": "https://api.lorem.space/image/fashion?w=180&h=120",
+			"article_price": 2078.36,
+			"article_stock": 1
+		},
+		{
+			"article_id": 13029,
+			"category_id": 60,
+			"article_name": "Ha*Ash",
+			"article_description": "Ha*Ash es un dúo estadounidense de pop country originario de Lake Charles, Luisiana, fundado en 2002 por las hermanas Ashley Grace y Hanna Nicole.​​",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 198.17,
+			"article_stock": 1
+		},
+		{
+			"article_id": 13130,
+			"category_id": 60,
+			"article_name": "La Oreja de Van Gogh",
+			"article_description": "La Oreja de Van Gogh es un grupo musical de género pop-rock originario de San Sebastián, País Vasco, España. Su trayectoria en el mundo de la música comenzó formalmente en 1996.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 203.61,
+			"article_stock": 25
+		},
+		{
+			"article_id": 13231,
+			"category_id": 70,
+			"article_name": "Tocador Las Vegas Blanco",
+			"article_description": "Es un tocador individual, con un cajón, marco y espejo para 8 focos (no incluidos). Está elaborado en madera industrial de color blanco, siendo altamente resistente. Gracias a su diseño, es perfecto para combinar con tu habitación.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 5661.1,
+			"article_stock": 30
+		},
+		{
+			"article_id": 13332,
+			"category_id": 40,
+			"article_name": "El Niño Con El Pijama De Rayas, John Boyne",
+			"article_description": "Si decides embarcarte en la aventura, debes saber que acompañarás a bruno, un niño de nueve años, cuando se muda con su familia a una casa junto a una cerca. Cercas como ésa existen en muchos sitios del mundo, sólo deseamos que no te encuentres nunca con una.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 510.32,
+			"article_stock": 36
+		},
+		{
+			"article_id": 13433,
+			"category_id": 80,
+			"article_name": "LEGO Pirates of the Caribbean: The Video Game",
+			"article_description": "LEGO Piratas del Caribe: el videojuego es un juego de acción y aventura que hace que los Piratas del Caribe y todos sus coloridos personajes cobren vida en forma de LEGO Brick. Los jugadores experimentarán todas las escenas memorables: cuatro películas en el humorístico y peculiar estilo de LEGO Video Games.",
+			"article_image_url": "https://api.lorem.space/image/game?w=180&h=120",
+			"article_price": 1722.61,
+			"article_stock": 17
+		},
+		{
+			"article_id": 13534,
+			"category_id": 30,
+			"article_name": "Tenis Bota Sneakers",
+			"article_description": "Tu plataforma favorita se renueva para que luzcas increíble. Una versión diferente de las icónicas Chucks, las suelas Chunky están de vuelta, una suela apilada gruesa y dentada hecha de material sintético, con una altura de 6cm. Son ultra ligeros y cómodos, están hechos de los mejores materiales lo cual los hacen unos tenis super resistentes.",
+			"article_image_url": "https://api.lorem.space/image/shoes?w=180&h=120",
+			"article_price": 2715.48,
+			"article_stock": 32
+		},
+		{
+			"article_id": 13635,
+			"category_id": 50,
+			"article_name": "Cinema Paradiso",
+			"article_description": "Salvatore es un niño de un pueblo italiano, donde el único pasatiempo es ir al cine y Salvatore crece creyendo que el cine es magia.",
+			"article_image_url": "https://api.lorem.space/image/movie?w=180&h=120",
+			"article_price": 47.82,
+			"article_stock": 11
+		},
+		{
+			"article_id": 13736,
+			"category_id": 70,
+			"article_name": "Tajsoon Mesa De Consola",
+			"article_description": "Mesa de consola, mesa de entrada industrial, mesa de sofá estrecha con estantes, mesa de entrada para entrada, pasillo, sala de estar, vestíbulo, pasillo, oficina, rústico marrón y negro.",
+			"article_image_url": "https://api.lorem.space/image/furniture?w=180&h=120",
+			"article_price": 13108.67,
+			"article_stock": 30
+		},
+		{
+			"article_id": 13837,
+			"category_id": 40,
+			"article_name": "En sus ojos habitaba el miedo, Ana Isabel Fernández",
+			"article_description": "Los Andersson son una familia adinerada que vive en Madrid. Alvin Andersson, de origen sueco, y Daniela Santa Fe y Guzmán, española con raíces gallegas, han formado una estirpe que incluye dos hijos gemelos y una dulce niña. Sin embargo, sus vidas no son del todo perfectas pues una densa burbuja de hipocresía y oscuros secretos los mantiene unidos. ",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 536.66,
+			"article_stock": 21
+		},
+		{
+			"article_id": 13938,
+			"category_id": 60,
+			"article_name": "Pink Floyd",
+			"article_description": "Pink Floyd fue una banda de rock británica, fundada en Londres en 1965. Considerada un ícono cultural del siglo XX y una de las bandas más influyentes, exitosas y aclamadas en la historia de la música.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 167.35,
+			"article_stock": 11
+		},
+		{
+			"article_id": 14039,
+			"category_id": 40,
+			"article_name": "El retrato de Dorian Gray, Oscar Wilde",
+			"article_description": "El retrato de Dorian Gray es una novela filosófica que representa la obsesión sobre el poder de la juventud y la belleza. Es, al mismo tiempo, una reflexión sobre la naturaleza del arte y la estética.",
+			"article_image_url": "https://api.lorem.space/image/book?w=180&h=120",
+			"article_price": 229.12,
+			"article_stock": 35
+		},
+		{
+			"article_id": 14140,
+			"category_id": 60,
+			"article_name": "Mecano",
+			"article_description": "Mecano fue un grupo español de género pop, pioneros del tecno-pop, new wave y wave en España, activos principalmente entre 1981 y 1992, periodo al que hay que sumar una reaparición durante seis meses entre 1998 y 1999. Estaba formado por la cantante Ana Torroja y los hermanos Nacho y José María Cano.",
+			"article_image_url": "https://api.lorem.space/image/album?w=180&h=120",
+			"article_price": 177.79,
+			"article_stock": 0
+		}
+	]
+}
