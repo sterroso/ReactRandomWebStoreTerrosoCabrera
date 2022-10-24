@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useContext } from "react";
+import DataContext from '../../context/DataContext';
 import TwitterLogo from './twitter32.png';
 import InstagramLogo from './instagram32.png';
 import TikTokLogo from './tiktok32.png';
 
-const Footer = (props) => {
-    const { brandTitle } = props;
+const Footer = () => {
+    const { brandTitle } = useContext(DataContext);
 
   return (
     <footer className="footer p-10 bg-neutral text-neutral-content">

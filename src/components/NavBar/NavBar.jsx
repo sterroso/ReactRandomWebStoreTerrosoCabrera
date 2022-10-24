@@ -5,19 +5,15 @@ import Brand from "../Brand/Brand";
 import CartWidget from "../CartWidget/CartWidget";
 import MainMenu from "../MainMenu/MainMenu";
 
-const NavBar = (props) => {
+const NavBar = () => {
 
-    const cartData = {
-        itemsQuantity: 9,
-        total: 420.69,
-    }
     return (
         <div className="navbar bg-neutral">
-            <Brand {...props} />
-            <MainMenu {...props} />
+            <Brand />
+            <MainMenu />
             <div className="flex-none">
-                <CartWidget {...props} />
-                <AvatarWidget {...props} />
+                <CartWidget />
+                <AvatarWidget />
             </div>
 
         </div>

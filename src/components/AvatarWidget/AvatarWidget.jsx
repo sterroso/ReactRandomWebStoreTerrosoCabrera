@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { NavLink } from "react-router-dom";
 
 const AvatarWidget = (props) => {
     return (
@@ -12,6 +12,7 @@ const AvatarWidget = (props) => {
                 <li>
                     <a className="justify-between">Perfil <span className="badge">Nuevo</span></a>
                 </li>
+                <li><NavLink to="/register">Registro</NavLink></li>
                 <li><a>Preferencias</a></li>
                 <li><a>Salir</a></li>
             </ul>

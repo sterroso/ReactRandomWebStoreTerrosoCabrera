@@ -1,33 +1,23 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
+import { collection, getDocs } from 'firebase/firestore';
 import CatalogMenuItem from "../CatalogMenuItem/CatalogMenuItem";
+import DataContext from "../../context/DataContext";
 
-const articleCategories = {
-    categories: [
-        {
-        category_id: 10,
-        category_name: "Ropa"
-        },
-        {
-        category_id: 20,
-        category_name: "Relojes"
-        },
-        {
-        category_id: 30,
-        category_name: "Zapatos"
-        }
-    ]
-}
-
-const MainMenu = (props) => {
+const MainMenu = () => {
+    const { db } = useContext(DataContext);
 
     const [menuItems, setMenuItems] = useState([]);
 
-    // Debe sustituirse por una función asíncrona que recupere los
-    // datos de una API mediante el método fetch, convierta el
-    // resultado y use la función setMenuItems para definir
-    // las categorías en el Menú.
     const getCategories = async () => {
-        setMenuItems(articleCategories.categories);
+        try {
+            const snapshot = await getDocs(collection(db, 'categories'));
+
+            if (snapshot.docs.length > 0) {
+                setMenuItems(snapshot.docs.map(d => ({id: d.id, ...d.data()})));
+            }
+        } catch (err) {
+            console.error(err);
+        }
      }
 
      useEffect(() => {
@@ -37,7 +27,7 @@ const MainMenu = (props) => {
     return (
         <div className="flex-none">
             <ul className="menu menu-vertical lg:menu-horizontal bg-neutral text-neutral-content">
-                { menuItems.map(item => <CatalogMenuItem {...item} />) }
+                { menuItems.map(item => <CatalogMenuItem key={item.id} {...item} />) }
             </ul>
         </div>
     )

@@ -1,8 +1,8 @@
-// Imports
-import React from "react";
+import React, { useContext } from "react";
+import DataContext from '../../context/DataContext';
 
-const Brand = (props) => {
-    const { brandTitle } = props;
+const Brand = () => {
+    const { brandTitle } = useContext(DataContext);
 
     return (
         <div className="flex-1">

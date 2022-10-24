@@ -3,11 +3,11 @@ import { NavLink } from "react-router-dom";
 import ArticleQuantitySpinner from "../ArticleQuantitySpinner/ArticleQuantitySpinner";
 
 const ArticleCard = (props) => {
-    const { articleId, title, description, imageUrl, price, stock } = props;
+    const { id, title, description, imageUrl, price, stock } = props;
 
     const { displayMode = 'listItem' } = props;
 
-    const getArticlePriceFormatted = (price) => {
+    const getArticlePriceFormatted = (price = 0) => {
         return new Intl.NumberFormat('es-MX', {style: 'currency', currency: 'MXN'}).format(price);
     }
 
@@ -24,7 +24,7 @@ const ArticleCard = (props) => {
             <div className={`card-actions flex${displayMode === 'listItem' ? 'justify-end' : ' flex-col justify-start items-start'}`}>
                 {
                     displayMode === 'listItem' &&
-                    <NavLink to={`/item/${articleId}`}>
+                    <NavLink to={`/item/${id}`}>
                         <label role="button" className="btn btn-primary normal-case">Detalle del Artículo</label>
                     </NavLink>
                 }
@@ -43,4 +43,5 @@ const ArticleCard = (props) => {
     </div>
   )
 }
+
 export default ArticleCard;
