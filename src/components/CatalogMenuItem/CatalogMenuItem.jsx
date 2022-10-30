@@ -1,14 +1,14 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-const CatalogMenuItem = (props) => {
-    const { id, name } = props;
-
+const CatalogMenuItem = ({ id, name }) => {
   return (
     <li>
-        <NavLink to={`/category/${id}`} className="text-white font-bold">{ name }</NavLink>
+      <NavLink to={`/category/${id}`} className="text-white font-bold">
+        {name}
+      </NavLink>
     </li>
-  )
-}
+  );
+};
 
 export default CatalogMenuItem;

@@ -8,6 +8,7 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import RegisterForm from './components/RegisterForm/RegisterForm';
 import WelcomeNewUser from './components/WelcomeNewUser/WelcomeNewUser';
 import { DataProvider } from './context/DataContext';
+import Cart from './components/Cart/Cart';
 
 function App() {
   const brandTitle = 'Random Web Store';
@@ -21,7 +22,7 @@ function App() {
             <Route exact path='/category/:catId' element={<CategoryListContainer />} />
             <Route exact path='/item/:itemId' element={<ItemDetailContainer />} />
             <Route exact path='/register' element={<RegisterForm />} />
-            <Route exact path='/welcome' element={<WelcomeNewUser />} />
+            <Route exact path='/cart' element={<Cart />} />
           </Routes>
           <Footer brandTitle={ brandTitle } />
         </DataProvider>
