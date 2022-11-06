@@ -1,21 +1,25 @@
-import React, { useContext } from "react";
+import React from "react";
 import { NavLink } from "react-router-dom";
-import DataContext from "../../context/DataContext";
 
 const CategoryListItem = ({ id, title, description, imageUrl, price }) => {
-  const { formatCurrencyNumber } = useContext(DataContext);
+  const formatCurrency = (number) => {
+    return new Intl.NumberFormat("es-MX", {
+      style: "currency",
+      currency: "MXN",
+    }).format(number);
+  };
 
   return (
     <div className="card lg:card-side bg-base-100 shadow-xl card-compact">
       <figure>
-        <img src={`${imageUrl}?w=180&h=400`} alt={title} />
+        <img src={imageUrl} alt={title} className="w-40" />
       </figure>
 
       <div className="card-body">
         <h4 className="card-title">{title}</h4>
         <p className="text-ellipsis text-sm">{description}</p>
         <div className="justify-end">
-          <p>Precio: {formatCurrencyNumber(price)} c/u</p>
+          <p>Precio: {formatCurrency(price)} c/u</p>
         </div>
 
         <div className="card-actions flex justify-end">

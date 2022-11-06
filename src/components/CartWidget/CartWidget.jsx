@@ -1,8 +1,22 @@
-import React, { useContext } from "react";
-import DataContext from "../../context/DataContext";
+import React, { useContext, useEffect, useState } from "react";
+import CartContext from "../../context/Cart/CartContext";
 
-const CartWidget = (props) => {
-  const { cart, formatCurrencyNumber } = useContext(DataContext);
+const CartWidget = () => {
+  const { itemsCount, total } = useContext(CartContext);
+
+  const [itemsCountString, setItemsCountString] = useState("");
+
+  const [totalString, setTotalString] = useState("");
+
+  useEffect(() => {
+    setItemsCountString(`${itemsCount}`);
+    setTotalString(
+      new Intl.NumberFormat("es-MX", {
+        style: "currency",
+        currency: "MXN",
+      }).format(total)
+    );
+  }, [itemsCount, total]);
 
   return (
     <div className="dropdown dropdown-end">
@@ -11,9 +25,9 @@ const CartWidget = (props) => {
           <span className="material-symbols-outlined text-neutral-content">
             shopping_cart
           </span>
-          {cart.itemsCount > 0 && (
+          {itemsCount > 0 && (
             <span className="badge badge-sm indicator-item bg-accent border-secondary text-primary font-bold">
-              {cart.itemsCount}
+              {itemsCountString}
             </span>
           )}
         </div>
@@ -23,10 +37,8 @@ const CartWidget = (props) => {
         tabIndex={0}
       >
         <div className="card-body">
-          <span className="font-bold text-lg">{`${cart.itemsCount} artículos`}</span>
-          <span className="text-info">
-            Total: {formatCurrencyNumber(cart.total)}
-          </span>
+          <span className="font-bold text-lg">{`${itemsCountString} artículos`}</span>
+          <span className="text-info">Total: {totalString}</span>
           <div className="card-actions">
             <a role="button" href="/cart" className="btn btn-primary btn-block">
               Ver Carrito
